@@ -4,7 +4,7 @@ import "./style.css";
 
 const Resume = () => {
   return (
-    <div className="wrapper header__title">
+    <div className="wrapper">
       <img src={image} alt="myfoto" className="myfoto" />
 
       <strong>Межеедов Юрий Александрович</strong>
