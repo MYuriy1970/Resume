@@ -136,20 +136,12 @@ const Resume = () => {
           <div className="section-wrapper clearfix">
             <h3 className="section-title">Skills</h3>
             <ul>
-              <li className="skill-percentage">HTML / HTML5</li>
-              <li className="skill-percentage">CSS / CSS3 / SASS / LESS</li>
+              <li className="skill-percentage">HTML</li>
+              <li className="skill-percentage">CSS / SASS / LESS</li>
               <li className="skill-percentage">Javascript</li>
-              <li className="skill-percentage">Jquery</li>
-              <li className="skill-percentage">Wordpress</li>
-              <li className="skill-percentage">PHP</li>
+              <li className="skill-percentage">React</li>
+              <li className="skill-percentage">Redux</li>
             </ul>
-          </div>
-
-          <div className="section-wrapper clearfix">
-            <h3 className="section-title">Hobbies</h3>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce a elit facilisis, adipiscing leo in, dignissim magna.</p>
-
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce a elit facilisis, adipiscing leo in, dignissim magna.</p>
           </div>
         </div>
       </section>
