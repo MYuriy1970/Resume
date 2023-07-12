@@ -10,7 +10,7 @@ const Home = () => {
           <ul className="content-list">
             <li className="content-list__item">
               <h2 className="title-2">Frontend</h2>
-              <p>JavaScript, TypeScript, ReactJS, Redux, HTML, CSS, NPM, BootStrap</p>
+              <p>JavaScript, ReactJS, Redux, HTML, CSS, NPM, BootStrap</p>
             </li>
           </ul>
         </div>
