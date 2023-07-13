@@ -8,15 +8,15 @@ const Header = () => {
       <div className="header__wrapper">
         <h1 className="header__title">
           <strong>
-            Hi, my name is <em>Yurii</em>
+            Привет, мое имя <em>Юрий</em>
           </strong>
-          <br /> a frontend developer
+          <br /> я фронтенд разработчик
         </h1>
         <div className="header__text">
-          <p>with passion for learning and creating.</p>
+          <p>С огромным интересом к обучению и творчеству.</p>
         </div>
         <NavLink to={`/resume`} className="btn">
-          Show CV
+          Резюме
         </NavLink>
       </div>
     </header>

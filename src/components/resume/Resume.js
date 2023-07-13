@@ -1,4 +1,4 @@
-/* eslint-disable jsx-a11y/alt-text */
+import diplom from "../../img/diplom.jpg";
 import image from "../../img/myfoto.jpg";
 
 import "./style.css";
@@ -72,6 +72,8 @@ const Resume = () => {
               <strong>Специализация:</strong> — Программист, разработчик <br />
               <strong>Занятость:</strong> полная занятость <br />
               <strong>График работы:</strong> полный день, удаленная работа
+              <br />
+				  Готов на временную командировку для того что бы понять организационные вопросы и рабочии моменты.
             </p>
           </div>
           <div className="contact-social clearfix">
@@ -93,18 +95,19 @@ const Resume = () => {
 
       <section className="experience section-padding">
         <div className="container">
-          <h3 className="experience-title">Experience</h3>
+          <h3 className="experience-title">ОПЫТ</h3>
 
           <div className="experience-wrapper">
             <div className="company-wrapper clearfix">
-              <div className="experience-title">Company name</div>
-              <div className="time">Nov 2012 - Present</div>
+              <div className="experience-title">Обучение</div>
+              <div className="time">Обучение 12 месяцев в компьютерной академии ТОП г.Тольятти
+				  </div>
             </div>
 
             <div className="job-wrapper clearfix">
               <div className="experience-title">Front End Developer </div>
               <div className="company-description">
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce a elit facilisis, adipiscing leo in, dignissim magna.</p>
+                <img src={diplom} alt="diplom" />
               </div>
             </div>
 
