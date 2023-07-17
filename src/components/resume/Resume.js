@@ -43,7 +43,7 @@ const Resume = () => {
           <div className="name-wrapper">
             <h1>
               Межеедов <br />
-              Юрий
+              Юрий Александрович
             </h1>
           </div>
           <div className="clearfix"></div>
@@ -111,29 +111,7 @@ const Resume = () => {
               </div>
             </div>
 
-            <div className="company-wrapper clearfix">
-              <div className="experience-title">Company name</div>
-              <div className="time">Nov 2010 - Present</div>
-            </div>
-
-            <div className="job-wrapper clearfix">
-              <div className="experience-title">Freelance, Web Designer / Web Developer</div>
-              <div className="company-description">
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce a elit facilisis, adipiscing leo in, dignissim magna.</p>
-              </div>
-            </div>
-
-            <div className="company-wrapper clearfix">
-              <div className="experience-title">Company name</div>
-              <div className="time">Nov 2009 - Nov 2010</div>
-            </div>
-
-            <div className="job-wrapper clearfix">
-              <div className="experience-title">Web Designer </div>
-              <div className="company-description">
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce a elit facilisis, adipiscing leo in, dignissim magna.</p>
-              </div>
-            </div>
+            
           </div>
 
           <div className="section-wrapper clearfix">
@@ -144,6 +122,8 @@ const Resume = () => {
               <li className="skill-percentage">Javascript</li>
               <li className="skill-percentage">React</li>
               <li className="skill-percentage">Redux</li>
+              <li className="skill-percentage">Git</li>
+              <li className="skill-percentage">Webpack</li>
             </ul>
           </div>
         </div>
