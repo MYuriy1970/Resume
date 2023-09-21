@@ -43,7 +43,7 @@ const Resume = () => {
           <div className="name-wrapper">
             <h1>
               Межеедов <br />
-              Юрий Александрович
+              Юрий
             </h1>
           </div>
           <div className="clearfix"></div>
